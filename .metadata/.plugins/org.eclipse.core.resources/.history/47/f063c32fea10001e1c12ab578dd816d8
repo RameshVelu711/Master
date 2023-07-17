@@ -1,0 +1,26 @@
+package org.ar;
+
+import java.util.ArrayList;
+import java.util.LinkedHashSet;
+import java.util.List;
+import java.util.Set;
+
+public class Dup {
+	public static void main(String[] args) {
+
+		List<String> li = new ArrayList<>();
+
+		li.add("Ram");
+		li.add("Ram");
+		li.add("Ramesh");
+		li.add("Anil");
+		li.add("Choudary");
+		li.add("Ram");
+
+		Set<String> set = new LinkedHashSet<>();
+		set.addAll(li);
+		System.out.println(set);
+
+	}
+
+}

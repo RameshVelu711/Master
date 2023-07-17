@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.dummy.BaseClass&apos; to &apos;BaseClass1&apos;&#x0D;&#x0A;- Original project: &apos;Dummy&apos;&#x0D;&#x0A;- Original element: &apos;org.dummy.BaseClass&apos;&#x0D;&#x0A;- Renamed element: &apos;org.dummy.BaseClass1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BaseClass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;org.dummy{BaseClass.java[BaseClass" matchStrategy="1" name="BaseClass1" qualified="false" references="true" similarDeclarations="false" stamp="1671643438486" textual="false" version="1.0"/>
+</session>

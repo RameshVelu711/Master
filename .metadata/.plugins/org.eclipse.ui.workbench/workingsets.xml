@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1672681615019_3" label="SampleGit" name="SampleGit">
+<item elementID="=1JavaArray" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1672682740072_4" label="JanuaryGitTask1" name="JanuaryGitTask1"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1667459257038_0" label="Window Working Set" name="Aggregate for window 1667459257038"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1667472701743_1" label="Window Working Set" name="Aggregate for window 1667472701743"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1667486370084_2" label="Window Working Set" name="Aggregate for window 1667486370084"/>
+<mruList name="JanuaryGitTask1"/>
+<mruList name="SampleGit"/>
+</workingSetManager>

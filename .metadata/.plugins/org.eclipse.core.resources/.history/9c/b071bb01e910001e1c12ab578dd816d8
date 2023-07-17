@@ -1,0 +1,32 @@
+package org.ar;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Dup {
+	public static void main(String[] args) {
+		
+		
+		
+		List<String> li = new ArrayList<>();
+		
+		
+		li.add("Ram");
+		li.add("Ram");
+		li.add("Ramesh");
+		li.add("Anil");
+		li.add("Choudary");
+		li.add("Ram");
+
+		li.retainAll(li);
+		
+		System.out.println(li);
+		
+		
+		
+		
+		
+		
+	}
+
+}

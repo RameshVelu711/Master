@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.sql.SqlExectueQuery&apos; to &apos;SqlByTryCatch&apos;&#x0D;&#x0A;- Original project: &apos;SqlPractice&apos;&#x0D;&#x0A;- Original element: &apos;com.sql.SqlExectueQuery&apos;&#x0D;&#x0A;- Renamed element: &apos;com.sql.SqlByTryCatch&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SqlExectueQuery&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;com.sql{SqlExectueQuery.java[SqlExectueQuery" matchStrategy="1" name="SqlByTryCatch" qualified="false" references="true" similarDeclarations="false" stamp="1674383670779" textual="false" version="1.0"/>
+</session>

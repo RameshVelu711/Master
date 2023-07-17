@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4599" started-at="2023-05-17T06:57:20Z" finished-at="2023-05-17T06:57:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4599" started-at="2023-05-17T06:57:20Z" finished-at="2023-05-17T06:57:25Z">
+      <class name="org.emp.Practice">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.emp.Practice@5bc79255]" name="tc1" duration-ms="3908" started-at="2023-05-17T06:57:20Z" finished-at="2023-05-17T06:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.emp.Practice@5bc79255]" name="tc2" duration-ms="621" started-at="2023-05-17T06:57:24Z" finished-at="2023-05-17T06:57:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.emp.Practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

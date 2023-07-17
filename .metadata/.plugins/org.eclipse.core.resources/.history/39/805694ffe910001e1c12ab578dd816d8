@@ -1,0 +1,49 @@
+package org.ar;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.List;
+import java.util.Set;
+
+public class Dup {
+	public static void main(String[] args) {/*
+
+		List<String> li = new ArrayList<>();
+
+		li.add("Ram");
+		li.add("Ram");
+		li.add("Ramesh");
+		li.add("Anil");
+		li.add("Choudary");
+		li.add("Ram");
+
+		Set<String> set = new LinkedHashSet<>();
+		set.addAll(li);
+		System.out.println(set);
+
+	*/
+
+
+	        List<Integer> numbers = new ArrayList<>();
+	        numbers.add(1);
+	        numbers.add(2);
+	        numbers.add(3);
+	        numbers.add(2);
+	        numbers.add(4);
+	        numbers.add(1);
+
+	        // Create a HashSet from the list to remove duplicates
+	        HashSet<Integer> uniqueNumbers = new HashSet<>(numbers);
+
+	        // Clear the original list
+	        numbers.clear();
+
+	        // Add the unique numbers back to the list
+	        numbers.addAll(uniqueNumbers);
+
+	        // Print the list without duplicates
+	        System.out.println(numbers);
+	    }
+	}
+	

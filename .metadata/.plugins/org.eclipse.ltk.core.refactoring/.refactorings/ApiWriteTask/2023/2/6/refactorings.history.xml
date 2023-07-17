@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.apiwrite&apos; to &apos;ApiByBaseClass/src/test/java&apos;&#x0D;&#x0A;- Original project: &apos;ApiWriteTask&apos;&#x0D;&#x0A;- Destination element: &apos;ApiByBaseClass/src/test/java&apos;&#x0D;&#x0A;- Original element: &apos;ApiWriteTask/src/test/java/com.apiwrite&apos;" description="Copy package" destination="=ApiByBaseClass/src\/test\/java" element1="/src\/test\/java&lt;com.apiwrite" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1675834684709" version="1.0"/>
+</session>

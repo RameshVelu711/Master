@@ -1,0 +1,26 @@
+package org.dum;
+
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
+
+public class Data {
+	
+	@DataProvider(name = "data")
+	private Object[][] tc1() {
+
+		Object[][] obj = new Object[][] {{"abu" ,"12"},{"abi","13"},{"aapu","44"}}; 
+	return obj;
+	}
+
+	@Test(dataProvider = "data")
+	private void tc2(String name , String age) {
+
+		
+		System.out.println("name = "+name );
+		System.out.println(""Age =" +age);
+
+	
+	}
+	
+	
+}

@@ -1,0 +1,18 @@
+package org.dummy;
+
+public class Sample {
+	public static void main(String[] args) {
+
+	String string = "Ramesh";
+	
+	for (int i = string.length()-1;  i >=0 ; i--) {
+		
+		char charAt = string.charAt(i);
+		
+		System.out.print(charAt);
+		
+	}
+	
+	}
+
+}

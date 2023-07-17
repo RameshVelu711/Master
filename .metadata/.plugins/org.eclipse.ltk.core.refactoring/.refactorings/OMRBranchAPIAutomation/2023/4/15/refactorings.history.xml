@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.base&apos; to &apos;com.base&apos;&#x0D;&#x0A;- Original project: &apos;OMRBranchAPIAutomation&apos;&#x0D;&#x0A;- Original element: &apos;OMRBranchAPIAutomation/src/test/java/org.base&apos;&#x0D;&#x0A;- Renamed element: &apos;OMRBranchAPIAutomation/src/test/java/com.base&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.base&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/test\/java&lt;org.base" name="com.base" qualified="false" references="true" stamp="1681468669640" textual="false" version="1.0"/>
+</session>
